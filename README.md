@@ -1,1 +1,1 @@
-Мой бэкенд: https.//adminka.nomoredomainswork.ru
+Мой бэкенд: https://adminka.nomoredomainswork.ru
