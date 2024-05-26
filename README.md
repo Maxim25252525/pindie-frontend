@@ -1,4 +1,4 @@
-Ссылка на репозиторий с бэкендом: 
+Ссылка на репозиторий с бэкендом: git@github.com:Maxim25252525/pindie-backend.git
 
 Ссылка на домен бэкенда: https://adminka.nomoredomainswork.ru
 
